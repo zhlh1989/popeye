@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/derailed/popeye/internal/client"
+	"github.com/zhlh1989/popeye/internal/client"
 	"gopkg.in/yaml.v2"
 )
 
